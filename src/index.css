@@ -1,0 +1,32 @@
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
+
+.table_height
+{
+	height: 400px;
+	overflow-y: auto;
+	display:block;
+	background-color: gainsboro;
+	border-radius: 5px;
+}
+th, td {
+	padding: .3rem !important;
+}
+.app_background
+{
+	background-color: darkgrey;
+	border-radius: 5px;
+}
+.title
+{
+	top:20px;
+	position: relative;
+}
+.error
+{
+	color:red;
+	display: none;
+}
